@@ -12,6 +12,6 @@ module.exports = {
     endpoints: {
         production : 'https://api.combatsforce.com',
         sandbox    : 'https://api.sandbox.combatsforce.com',
-        local      : 'http://localhost:8090',
+        local      : 'http://lvh.me:8090',
     }
 };
